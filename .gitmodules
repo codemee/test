@@ -1,0 +1,3 @@
+[submodule "ESP8266WebServer"]
+	path = ESP8266WebServer
+	url = https://github.com/codemee/ESP8266WebServer.git
